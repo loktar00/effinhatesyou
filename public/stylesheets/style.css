@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+body, html {
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Oswald', sans-serif;
+    font-size:2em;
+}
+
+main{
+    position: relative;
+    text-align: center;
+    min-height: 100%;
+}
+
+canvas {
+    z-index: 1;
+    position:absolute;
+    top:0;
+    left:0
+}
+
+.message{
+    z-index: 20;
+    position: relative;
+    margin-top:20%;
+    display: inline-block;
+    text-align: left;
+    height:100px;
+}
+
+.tweet{
+    z-index: 40;
+    position: relative;
+}
