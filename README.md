@@ -8,7 +8,7 @@ Site running can be viewed [here](http://fuckinghatesyou.com)
 You can  prefix the message by setting the subdomain to whatever you want such as
 
 * [bob.fuckinghatesyou.com](http://bob.fuckinghatesyou.com)
-* [google.fuckinghatesyou.com](http://i.fuckinghatesyou.com)
+* [google.fuckinghatesyou.com](http://google.fuckinghatesyou.com)
 
 And you can use spaces by giving the subdomain a hyphen such as
 
